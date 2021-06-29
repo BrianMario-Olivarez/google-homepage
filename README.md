@@ -1,0 +1,1 @@
+This is a mini-project for The Odin Project. I will deconstruct an existing web page and try to rebuild it. The purpose of this exercise is just to see how elements are placed, styled, and aligned. 
